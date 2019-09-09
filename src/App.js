@@ -1,17 +1,10 @@
 import React, { Component } from 'react';
 import './App.css';
-//  my compoenent
 import NavBar from './components/NavBar';
 import Banner from './components/Banner';
 import IconCard from './components/IconCard';
 import Icons from './icons.json';
-//
 import "./components/IconCard.css";
-//
-// import "tachyons";
-// import "hover";
-// import "animate";
-
 
 const shuffleArray = (array) => {
   let counter = array.length;
@@ -42,7 +35,7 @@ class App extends Component {
   // When the page loads and the component mounts,
   // display starting message
   componentDidMount() {
-    this.setState({result: "Click a player to get started"})
+    this.setState({result: "Click an image to get started"})
   }
 
   // When a player gets clicked,
@@ -95,7 +88,7 @@ class App extends Component {
       points: 0,
       currentScore:0,
       topScore: this.state.topScore,
-      result: "You Loss!",
+      result: "You Lose!",
       clicked: [],
       Icons,
       gameOver: true
