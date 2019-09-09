@@ -9,15 +9,15 @@
 
 * Link to [Heroku](https://quiet-garden-85070.herokuapp.com/)
 
-* Start screen
+#### Start screen
 
 ![Start](https://github.com/pamelatholan/Memory/blob/master/public/images/start.PNG)
 
-* High Score
+#### High Score
 
 ![High Score](https://github.com/pamelatholan/Memory/blob/master/public/images/highscore.PNG)
 
-* Game Loss Screen
+#### Game Loss Screen
 
 ![Lose](https://github.com/pamelatholan/Memory/blob/master/public/images/lose.PNG)
 
