@@ -1,4 +1,5 @@
 # Memory Game
+## Created using React
 
 ### Are you a Master of the Universe?
 
@@ -16,7 +17,7 @@
 
 ![High Score](https://github.com/pamelatholan/Memory/blob/master/public/images/highscore.PNG)
 
-* Lose Screen
+* Game Loss Screen
 
 ![Lose](https://github.com/pamelatholan/Memory/blob/master/public/images/lose.PNG)
 
