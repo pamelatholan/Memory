@@ -6,6 +6,8 @@
 * You can only click on an image once.
 * Theme is Skeletor Affirmations.
 
+* Link to [Heroku](https://quiet-garden-85070.herokuapp.com/)
+
 * Start screen
 
 ![Start](https://github.com/pamelatholan/Memory/blob/master/public/images/start.PNG)
