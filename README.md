@@ -21,3 +21,6 @@
 
 ![Lose](https://github.com/pamelatholan/Memory/blob/master/public/images/lose.PNG)
 
+* Future Improvements
+    * Would like to incorporate music.
+        * In another version of this app I had working sound, but my images were not displaying.
