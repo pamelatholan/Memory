@@ -2,7 +2,7 @@
 
 Deployed on [Heroku](https://quiet-garden-85070.herokuapp.com/)
 
-* A Skeletor affirmation themed memory game where you are shown images that shuffle after each turn.
+#### A Skeletor affirmation themed memory game where you are shown images that shuffle after each turn.
 
 ### How to Play:
 * Click on an image
