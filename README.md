@@ -1,26 +1,28 @@
 # Memory Game
-## Created using React
 
-### Are you a Master of the Universe?
+Deployed on [Heroku](https://quiet-garden-85070.herokuapp.com/)
 
-* Memory game where you are shown images that shuffle after each turn.
-* You can only click on an image once.
-* Theme is Skeletor Affirmations.
+* A Skeletor affirmation themed memory game where you are shown images that shuffle after each turn.
 
-* Link to [Heroku](https://quiet-garden-85070.herokuapp.com/)
+### How to Play:
+* Click on an image
+* The images will shuffle and you will have to select another image that is different from the first image
+* Continue clicking on images until you win or lose
 
-#### Start screen
+### Stats Displayed:
+* Instructions for gameplay
+* Status
+* Score
+* Top Score
 
-![Start](https://github.com/pamelatholan/Memory/blob/master/public/images/start.PNG)
+### Tools/Languages Used:
+* React
+* HTML
+* CSS
+* Javascript
+* JSON
+* Ajax
+* Font Awesome
 
-#### High Score
-
-![High Score](https://github.com/pamelatholan/Memory/blob/master/public/images/highscore.PNG)
-
-#### Game Loss Screen
-
-![Lose](https://github.com/pamelatholan/Memory/blob/master/public/images/lose.PNG)
-
-* Future Improvements
-    * Would like to incorporate music.
-        * In another version of this app I had working sound, but my images were not displaying.
+### Future Improvements
+* Would like to incorporate music.
