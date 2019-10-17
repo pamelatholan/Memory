@@ -1,5 +1,7 @@
 # Memory Game
 
+![Skeletor](https://github.com/pamelatholan/Memory/blob/master/public/images/start.PNG)
+
 Deployed on [Heroku](https://quiet-garden-85070.herokuapp.com/)
 
 #### A Skeletor affirmation themed memory game where you are shown images that shuffle after each turn.
